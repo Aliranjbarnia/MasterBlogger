@@ -1,0 +1,17 @@
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\bin\Debug\net8.0\MB.Application.deps.json
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\bin\Debug\net8.0\MB.Application.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\bin\Debug\net8.0\MB.Application.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\bin\Debug\net8.0\MB.ApplicationContract.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\bin\Debug\net8.0\MB.Domain.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\bin\Debug\net8.0\MB.ApplicationContract.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\bin\Debug\net8.0\MB.Domain.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\MB.Application.csproj.AssemblyReference.cache
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\MB.Application.AssemblyInfoInputs.cache
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\MB.Application.AssemblyInfo.cs
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\MB.Application.csproj.CoreCompileInputs.cache
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\MB.Application.csproj.CopyComplete
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\MB.Application.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\refint\MB.Application.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\MB.Application.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.Application\obj\Debug\net8.0\ref\MB.Application.dll

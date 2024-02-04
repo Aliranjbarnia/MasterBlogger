@@ -1,0 +1,13 @@
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\bin\Debug\net8.0\MB.Domain.deps.json
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\bin\Debug\net8.0\MB.Domain.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\bin\Debug\net8.0\MB.Domain.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\obj\Debug\net8.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfoInputs.cache
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfo.cs
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.CoreCompileInputs.cache
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\obj\Debug\net8.0\MB.Domain.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\obj\Debug\net8.0\refint\MB.Domain.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\obj\Debug\net8.0\MB.Domain.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\obj\Debug\net8.0\ref\MB.Domain.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\bin\Debug\net8.0\MB.Domain.runtimeconfig.json
+C:\New folder\ArticleProjectWithRazorePages\MB.Domain\obj\Debug\net8.0\MB.Domain.genruntimeconfig.cache

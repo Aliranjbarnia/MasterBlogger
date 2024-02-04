@@ -1,0 +1,11 @@
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\bin\Debug\net8.0\MB.ApplicationContract.deps.json
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\bin\Debug\net8.0\MB.ApplicationContract.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\bin\Debug\net8.0\MB.ApplicationContract.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\MB.ApplicationContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\MB.ApplicationContract.AssemblyInfoInputs.cache
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\MB.ApplicationContract.AssemblyInfo.cs
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\MB.ApplicationContract.csproj.CoreCompileInputs.cache
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\MB.ApplicationContract.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\refint\MB.ApplicationContract.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\MB.ApplicationContract.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\ref\MB.ApplicationContract.dll
