@@ -25,5 +25,20 @@ namespace MB.Infrastructure.EfCore.Repositories
                 ArticleCategory = x.ArticleCategory.Title
             }).OrderByDescending(x => x.Id).ToList();
         }
+
+        public void Create(Article entity)
+        {
+            _context.Articles.Add(entity);
+        }
+
+        public Article GetById(int id)
+        {
+            return _context.Articles.FirstOrDefault(x=>x.Id == id);
+        }
+
+        public void Save()
+        {
+            _context.SaveChanges();
+        }
     }
 }
