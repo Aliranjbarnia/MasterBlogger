@@ -1,3 +1,5 @@
+
+
 using MB.Infrastructure.EfCore.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);

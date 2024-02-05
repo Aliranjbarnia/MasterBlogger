@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MB.ApplicationContract\MB.ApplicationContract.csproj" />
+    <ProjectReference Include="..\MB.Application\MB.Application.csproj" />
+    <ProjectReference Include="..\MB.Domain\MB.Domain.csproj" />
+    <ProjectReference Include="..\MB.Infrastructure.EfCore\MB.Infrastructure.EfCore.csproj" />
+    <ProjectReference Include="..\MB.Infrastructure.Query\MB.Infrastructure.Query.csproj" />
+  </ItemGroup>
+
+</Project>

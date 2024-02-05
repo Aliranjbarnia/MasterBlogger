@@ -5,6 +5,7 @@ using MB.Domain.ArticleAgg;
 using MB.Domain.ArticleCategoryAgg;
 using MB.Domain.ArticleCategoryAgg.Services;
 using MB.Infrastructure.EfCore.Repositories;
+using MB.Infrastructure.Query;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -22,6 +23,7 @@ namespace MB.Infrastructure.EfCore.Configuration
             //Article
             services.AddTransient<IArticleRepository, ArticleRepository>();
             services.AddTransient<IArticleApplication, ArticleApplication>();
+            services.AddTransient<IArticleQuery, ArticleQuery>();
 
 
             services.AddDbContext<ArticleContext>(x => x.UseSqlServer(connectionString));

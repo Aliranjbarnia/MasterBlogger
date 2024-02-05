@@ -143,3 +143,7 @@ C:\New folder\ArticleProjectWithRazorePages\MB.Presentation.RazorPages\bin\Debug
 C:\New folder\ArticleProjectWithRazorePages\MB.Presentation.RazorPages\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\New folder\ArticleProjectWithRazorePages\MB.Presentation.RazorPages\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\New folder\ArticleProjectWithRazorePages\MB.Presentation.RazorPages\obj\Debug\net8.0\MB.Presentation.RazorPages.sourcelink.json
+C:\New folder\ArticleProjectWithRazorePages\MB.Presentation.RazorPages\bin\Debug\net8.0\MB.Infrastructure.Configuration.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Presentation.RazorPages\bin\Debug\net8.0\MB.Infrastructure.Query.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.Presentation.RazorPages\bin\Debug\net8.0\MB.Infrastructure.Configuration.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.Presentation.RazorPages\bin\Debug\net8.0\MB.Infrastructure.Query.pdb
