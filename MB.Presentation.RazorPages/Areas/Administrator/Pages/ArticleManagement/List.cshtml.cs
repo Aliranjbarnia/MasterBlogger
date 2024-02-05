@@ -1,4 +1,5 @@
 using MB.ApplicationContract.Article;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace MB.Presentation.RazorPages.Areas.Administrator.Pages.ArticleManagement
@@ -17,5 +18,17 @@ namespace MB.Presentation.RazorPages.Areas.Administrator.Pages.ArticleManagement
         {
             Articles = _articleApplication.GetList();
         }
+
+        public IActionResult OnPostActivate(int id)
+        {
+            _articleApplication.Activated(id);
+            return RedirectToPage("./List");
+        }
+        public IActionResult OnPostRemove(int id)
+        {
+            _articleApplication.Remove(id);
+            return RedirectToPage("./List");
+        }
+
     }
 }

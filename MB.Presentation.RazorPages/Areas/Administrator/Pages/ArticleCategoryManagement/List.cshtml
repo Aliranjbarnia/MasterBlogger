@@ -30,13 +30,12 @@
                         <td>
                             @if (articleCategory.IsDeleted == false)
                             {
-                                <i class="fa fa-close fa-2x text-danger"></i>
-                                <p class="bg-success d-inline">Active</p>
+                                <i class="fa fa-check fa-2x text-success"></i>
                             }
                             else
                             {
-                                <i class="fa fa-check fa-2x text-success"></i>
-                                <p class="bg-danger d-inline">Not Active</p>
+                                <i class="fa fa-close fa-2x text-danger"></i>
+
                             }
                         </td>
                         <td>@articleCategory.CreationDate</td>
