@@ -1,4 +1,5 @@
-﻿using MB.Domain.ArticleCategoryAgg.Services;
+﻿using MB.Domain.ArticleAgg;
+using MB.Domain.ArticleCategoryAgg.Services;
 
 namespace MB.Domain.ArticleCategoryAgg
 {
@@ -8,15 +9,22 @@ namespace MB.Domain.ArticleCategoryAgg
         public string Title { get; private set; }
         public bool IsDeleted { get; private set; }
         public DateTime CreationDate { get; private set; }
+        public ICollection<Article> Articles { get; set; }
 
-        public ArticleCategory(string title/*IArticleCategoryValidatorService checkDuplicated*/)
+        protected ArticleCategory()
+        {
+                
+        }
+
+        public ArticleCategory(string title ,IArticleCategoryValidatorService checkDuplicated)
         {
             CheckEmptyTitle(title);
-            //checkDuplicated.CheckDuplicated(title);
+            checkDuplicated.CheckDuplicated(title);
 
             Title = title;
             IsDeleted = false;
             CreationDate = DateTime.Now;
+            Articles = new List<Article>();
         }
 
         private void CheckEmptyTitle(string title)

@@ -19,3 +19,4 @@ C:\New folder\ArticleProjectWithRazorePages\MB.Infrastructure.EfCore\bin\Debug\n
 C:\New folder\ArticleProjectWithRazorePages\MB.Infrastructure.EfCore\bin\Debug\net8.0\MB.ApplicationContract.dll
 C:\New folder\ArticleProjectWithRazorePages\MB.Infrastructure.EfCore\bin\Debug\net8.0\MB.ApplicationContract.pdb
 C:\New folder\ArticleProjectWithRazorePages\MB.Infrastructure.EfCore\bin\Debug\net8.0\MB.Application.pdb
+C:\New folder\ArticleProjectWithRazorePages\MB.Infrastructure.EfCore\obj\Debug\net8.0\MB.Infrastructure.EfCore.sourcelink.json

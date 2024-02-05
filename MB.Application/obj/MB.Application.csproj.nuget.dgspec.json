@@ -159,7 +159,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\New folder\\ArticleProjectWithRazorePages\\MB.ApplicationContract\\MB.ApplicationContract.csproj": {
+                "projectPath": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.ApplicationContract\\MB.ApplicationContract.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

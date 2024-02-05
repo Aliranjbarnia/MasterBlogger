@@ -828,6 +828,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "MB.ApplicationContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MB.ApplicationContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.ApplicationContract.dll": {}
+        }
       }
     }
   },
@@ -2175,10 +2185,16 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "MB.ApplicationContract/1.0.0": {
+      "type": "project",
+      "path": "../MB.ApplicationContract/MB.ApplicationContract.csproj",
+      "msbuildProject": "../MB.ApplicationContract/MB.ApplicationContract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "MB.ApplicationContract >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.1"
     ]
   },
@@ -2214,7 +2230,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\New folder\\ArticleProjectWithRazorePages\\MB.ApplicationContract\\MB.ApplicationContract.csproj": {
+              "projectPath": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.ApplicationContract\\MB.ApplicationContract.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -9,3 +9,4 @@ C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net
 C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\refint\MB.ApplicationContract.dll
 C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\MB.ApplicationContract.pdb
 C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\ref\MB.ApplicationContract.dll
+C:\New folder\ArticleProjectWithRazorePages\MB.ApplicationContract\obj\Debug\net8.0\MB.ApplicationContract.sourcelink.json

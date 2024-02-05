@@ -30,7 +30,7 @@ namespace MB.Application
 
         public void Create(CreateCategory command)
         {
-            var articleCategory = new ArticleCategory(command.Title/*,_validatorService*/);
+            var articleCategory = new ArticleCategory(command.Title, _validatorService);
             _articleCategory.Create(articleCategory);
             _articleCategory.Save();
         }

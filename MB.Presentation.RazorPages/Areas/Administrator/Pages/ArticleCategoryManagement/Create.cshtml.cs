@@ -6,6 +6,7 @@ namespace MB.Presentation.RazorPages.Areas.Administrator.Pages.ArticleCategoryMa
 {
     public class CreateModel : PageModel
     {
+        public CreateCategory CreateCategory { get; set; }
         private readonly IArticleCategoryApplication _articleCategory;
 
         public CreateModel(IArticleCategoryApplication articleCategory)
@@ -17,7 +18,7 @@ namespace MB.Presentation.RazorPages.Areas.Administrator.Pages.ArticleCategoryMa
         {
         }
 
-        public IActionResult OnPost(CreateCategory entity)
+        public RedirectToPageResult OnPost(CreateCategory entity)
         {
             _articleCategory.Create(entity);
             return RedirectToPage("./List");
