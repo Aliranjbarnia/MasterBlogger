@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\MB.Presentation.RazorPages.props" />
-</Project>

@@ -1,0 +1,64 @@
+﻿@model MB.ApplicationContract.Article.EditArticle
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2>Edit Article : @Model.Title</h2>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-12">
+                <form method="post" asp-area="Admin" asp-controller="ArticleManagement" asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="Id" value="@Model.Id" />
+                    <div class="col-md-6 col-sm-12">
+                        <div class="form-group">
+                            <label asp-for="Title" class="control-label">Title:</label>
+                            <input asp-for="Title" class="form-control" name="Title" />
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-12">
+                        <div class="form-group">
+                            <label asp-for="ShortDescription" class="control-label">ShortDescription:</label>
+                            <textarea asp-for="ShortDescription" name="ShortDescription" class="form-control" rows="3"></textarea>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-12">
+                        <div class="form-group">
+                            <label asp-for="Image" class="control-label">Image:</label>
+                            <input asp-for="Image" name="Image" class="form-control" />
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-6 col-sm-12">
+                        <div class="form-group">
+                            <label asp-for="Content" class="control-label">Content:</label>
+                            <textarea asp-for="Content" name="Content" class="form-control" rows="5"></textarea>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-12">
+                        <div class="form-group">
+                            <label asp-for="ArticleCategoryId" class="control-label">Article Category:</label>
+                            <select asp-for="ArticleCategoryId" name="ArticleCategoryId" asp-items="ViewBag.Categories" class="form-control">
+                                <option value="0">Select Article Category</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Edit" class="btn btn-warning" />
+                        <a class="btn btn-dark" asp-controller="ArticleManagement" asp-action="List" asp-area="Admin">Back to list</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,11 +1,12 @@
 ﻿using MB.Domain.ArticleAgg;
 using MB.Domain.ArticleCategoryAgg;
 using MB.Infrastructure.EfCore.Mapping;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace MB.Infrastructure.EfCore
 {
-    public class ArticleContext : DbContext
+    public class ArticleContext : IdentityDbContext
     {
         public ArticleContext(DbContextOptions<ArticleContext> option) : base(option){}
 

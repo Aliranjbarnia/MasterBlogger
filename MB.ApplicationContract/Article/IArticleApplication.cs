@@ -9,9 +9,4 @@
         void Remove(int id);
         void Activated(int id);
     }
-
-    public class EditArticle : CreateArticle
-    {
-        public int Id { get; set; }
-    }
 }

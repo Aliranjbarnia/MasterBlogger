@@ -15,7 +15,7 @@ namespace MB.Infrastructure.Query
 
         public List<ArticleQueryView> GetArticles()
         {
-            return _context.Articles
+            return _context.Articles.Where(x=>x.IsDeleted==false)
                 .Include(x => x.ArticleCategory)
                 .Select(x =>
                     new ArticleQueryView

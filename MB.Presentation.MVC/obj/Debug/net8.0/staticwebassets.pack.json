@@ -1,0 +1,1421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MB.Presentation.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MB.Presentation.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\bootstrap\\mixins\\_reset-text.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_reset-text.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\bootstrap\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\fontastic.css",
+      "PackagePath": "staticwebassets\\css\\fontastic.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\main2.css",
+      "PackagePath": "staticwebassets\\css\\main2.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\style.blue.css",
+      "PackagePath": "staticwebassets\\css\\style.blue.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\style.default.css",
+      "PackagePath": "staticwebassets\\css\\style.default.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\style.green.css",
+      "PackagePath": "staticwebassets\\css\\style.green.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\style.pink.css",
+      "PackagePath": "staticwebassets\\css\\style.pink.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\style.red.css",
+      "PackagePath": "staticwebassets\\css\\style.red.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\style.sea.css",
+      "PackagePath": "staticwebassets\\css\\style.sea.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\style.violet.css",
+      "PackagePath": "staticwebassets\\css\\style.violet.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\style1.css",
+      "PackagePath": "staticwebassets\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\css\\util2.css",
+      "PackagePath": "staticwebassets\\css\\util2.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\blog.eot",
+      "PackagePath": "staticwebassets\\fonts\\blog.eot"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\blog.svg",
+      "PackagePath": "staticwebassets\\fonts\\blog.svg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\blog.ttf",
+      "PackagePath": "staticwebassets\\fonts\\blog.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\blog.woff",
+      "PackagePath": "staticwebassets\\fonts\\blog.woff"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\icons-reference\\fonts\\blog.eot",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.eot"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\icons-reference\\fonts\\blog.svg",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.svg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\icons-reference\\fonts\\blog.ttf",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\icons-reference\\fonts\\blog.woff",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.woff"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\icons-reference\\icons-reference.html",
+      "PackagePath": "staticwebassets\\icons-reference\\icons-reference.html"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\icons-reference\\styles.css",
+      "PackagePath": "staticwebassets\\icons-reference\\styles.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\blog-post-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog-post-1.jpeg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post-2.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\blog-post-3.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog-post-3.jpeg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\blog-post-4.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog-post-4.jpeg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\divider-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\divider-bg.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\featured-pic-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\featured-pic-1.jpeg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\featured-pic-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\featured-pic-2.jpeg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\featured-pic-3.jpeg",
+      "PackagePath": "staticwebassets\\img\\featured-pic-3.jpeg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\gallery-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\gallery-2.jpeg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\img\\logo-white.png"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\small-thumbnail-1.jpg",
+      "PackagePath": "staticwebassets\\img\\small-thumbnail-1.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\small-thumbnail-2.jpg",
+      "PackagePath": "staticwebassets\\img\\small-thumbnail-2.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\small-thumbnail-3.jpg",
+      "PackagePath": "staticwebassets\\img\\small-thumbnail-3.jpg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\template-mac.png",
+      "PackagePath": "staticwebassets\\img\\template-mac.png"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\img\\user.svg",
+      "PackagePath": "staticwebassets\\img\\user.svg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\js\\bootstrap.min1.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min1.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\js\\front.js",
+      "PackagePath": "staticwebassets\\js\\front.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\js\\global.js",
+      "PackagePath": "staticwebassets\\js\\global.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\js\\jquery.min1.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min1.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\js\\main1.js",
+      "PackagePath": "staticwebassets\\js\\main1.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\js\\popper1.js",
+      "PackagePath": "staticwebassets\\js\\popper1.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\datepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\datepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\datepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\datepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\datepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\datepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\fancyapps\\fancybox\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\vendor\\fancyapps\\fancybox\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\fancyapps\\fancybox\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\vendor\\fancyapps\\fancybox\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\fancyapps\\fancybox\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fancyapps\\fancybox\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\fancyapps\\fancybox\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\fancyapps\\fancybox\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome-4.7\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome-4.7\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery.cookie\\MIT-LICENSE.txt",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\MIT-LICENSE.txt"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery.cookie\\component.json",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\component.json"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery.cookie\\cookie.jquery.json",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\cookie.jquery.json"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery.cookie\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery\\core.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\core.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\mdi-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\vendor\\mdi-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\esm\\popper-utils.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\esm\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\popper-utils.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\umd\\popper-utils.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\umd\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\popper.js\\umd\\poppper.js.flow",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\poppper.js.flow"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\New folder\\ArticleProjectWithRazorePages\\MB.Presentation.MVC\\wwwroot\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MB.Presentation.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MB.Presentation.MVC.props",
+      "PackagePath": "build\\MB.Presentation.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MB.Presentation.MVC.props",
+      "PackagePath": "buildMultiTargeting\\MB.Presentation.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MB.Presentation.MVC.props",
+      "PackagePath": "buildTransitive\\MB.Presentation.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
